@@ -70,16 +70,6 @@ To enhance the model's performance:
 
 The model's performance is evaluated using accuracy. Aim to improve upon the baseline accuracy of 0.6045278.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
